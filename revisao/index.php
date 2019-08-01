@@ -1,0 +1,10 @@
+<!doctype html>
+<head>
+<meta charset="utf-8" lang = "pt-Br">
+</head>
+<body>
+<p><a href="cadastro_escola.php">Clique aqui para cadastrar a escola<a></p>
+<p><a href="cadastro_curso.php">Clique aqui para cadastrar o curso<a></p>
+<p><a href="mostrar.php">Clique aqui para consultar</a></p>
+</body>
+</html>
